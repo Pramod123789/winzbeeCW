@@ -14,8 +14,8 @@ export const navLinks = [
     title: "Product",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "contact",
+    title: "Contact",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Location-Based Networking",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Winzbee employs advanced location-based technology to connect professionals who are geographically close. This feature enables users to form meaningful connections with nearby individuals who share similar skill sets and mindsets, fostering local collaboration and networking opportunities.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Hybrid Networking Approach",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "The app offers a hybrid networking method that seamlessly blends digital convenience with genuine human interaction. Users can leverage technology to discover and connect with others, while also nurturing in-person relationships, creating a well-rounded networking experience.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Innovative Collaboration Opportunities",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Winzbee goes beyond traditional networking by facilitating innovative collaborations. Professionals can explore partnership opportunities, collaborative projects, and joint ventures with nearby users who align with their goals, leading to creative growth and unique ventures.",
   },
 ];
 
